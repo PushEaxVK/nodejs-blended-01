@@ -1,0 +1,21 @@
+{
+  "name": "nodejs-blended-01",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/PushEaxVK/nodejs-blended-01.git"
+  },
+  "keywords": [],
+  "author": "PushEax <pusheax.vk@gmail.com>",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/PushEaxVK/nodejs-blended-01/issues"
+  },
+  "homepage": "https://github.com/PushEaxVK/nodejs-blended-01#readme"
+}
